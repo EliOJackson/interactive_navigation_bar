@@ -1,9 +1,8 @@
 /* Nav Bar stuff */
 .navigation {
     display: flex;
-    width: 100%;
     list-style-type: none;
-    padding: .5em 2em;
+    padding: 2em;
     justify-content: space-around;
     background-color: blue;
 
